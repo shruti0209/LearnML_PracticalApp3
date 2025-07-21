@@ -6,7 +6,7 @@ Find a classification model that will most accurately predict the likelihood of 
 
 #### Outline of project
 
-- [Link to notebook 1]()
+- [Link to notebook 1](https://github.com/shruti0209/LearnML_PracticalApp3/blob/main/Comparing_Classifiers.ipynb)
 
 Following techniques are used in the analysis: 
 1. Performed ***EDA and data transformation*** before training the models
