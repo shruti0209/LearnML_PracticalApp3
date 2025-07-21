@@ -9,7 +9,7 @@ Find a classification model that will most accurately predict the likelihood of 
 - [Link to notebook 1](https://github.com/shruti0209/LearnML_PracticalApp3/blob/main/Comparing_Classifiers.ipynb)
 
 Following techniques are used in the analysis: 
-1. Performed ***EDA and data transformation*** before training the models
+1. Performed **EDA and data transformation** before training the models
 2. Transformed the data attributes as required. **Encoded categorical variables and scaled numeric variables**
 3. Created training and test datasets and **built a baseline model** to establish baseline accuracy score and AUC score
 4. Built simple **k-nearest neighbors, logistic regression, decision trees, and support vector machines models** and compared their performance
